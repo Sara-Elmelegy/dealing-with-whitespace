@@ -9,7 +9,7 @@ html {
   box-sizing: inherit;
 }
 
-article header h1 {
+article h1 {
   font-weight: bold;
   font-size: 1.5rem;
   color: #222;
@@ -20,6 +20,14 @@ article header p {
   font-size: 1.25rem;
   font-style: italic;
   color: #555;
+}
+
+article p {
+  font height: 1.3rem;
+}
+
+article header {
+  border-top: 30px;
 }
 
 article body {
@@ -35,6 +43,7 @@ article body {
 
 blockquote {
   text-indent: 30px;
+  color: #999;
 }
 
 article ol {
@@ -44,6 +53,10 @@ article ol {
 
 body {
   margin: 0;
-  border-bottom: 5px;
-  color: #999;
+  color: #555;
+}
+
+article {
+  border-bottom: 1rem;
+  color: #555;
 }
