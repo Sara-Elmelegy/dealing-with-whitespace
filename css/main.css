@@ -25,15 +25,17 @@ article header p {
   line-height: 100%;
 }
 
+
 article p {
   font height: 1.3rem;
 }
 
 article header {
-  border-top: 30px;
+  border-top: 2px solid black;
 }
 
 article body {
+  border-top: 2px solid black;
   margin: 0;
   font-family: "Crimson Text", serif;
   color: #555;
